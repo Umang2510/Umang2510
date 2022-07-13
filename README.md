@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umang Chovatiya</h1>
 <h3 align="center">Open to learn, Open to improve</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang2510&label=Profile%20views&color=0e75b6&style=flat" alt="umang2510" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umang2510" alt="umang2510" /></a> </p>
 
 - 🌱 I’m currently learning **flutter**
 
