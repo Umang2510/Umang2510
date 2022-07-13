@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umang2510&show_icons=true&locale=en" alt="umang2510" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umang2510&" alt="umang2510" /></p>
+
+## Tools
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
