@@ -1,3 +1,4 @@
+<img src="https://github.com/Umang2510/Umang2510/blob/main/umang.png" alt = "Banner of Umang Chovatiya">
 <h1 align="center">Hi 👋, I'm Umang Chovatiya</h1>
 <h3 align="center">Open to learn, Open to improve</h3>
 
